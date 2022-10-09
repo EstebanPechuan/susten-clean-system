@@ -1,0 +1,210 @@
+[
+    {
+        "id": 0,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "HAND CLEANER MANZANA 4X5LT",
+        "descripcion": "Jabón líquido para manos",
+        "dilucion": "Puro",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Hand-Cleaner-Manzana.png",
+        "precio": [
+            {
+                "caja": "2.800",
+                "envase": "700",
+                "litro": "140"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "GOIN' HOME 4X5LT",
+        "descripcion": "Jabón líquido desengrasante para manos (talleres mecánicos)",
+        "dilucion": "10",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Goin-Home.png",
+        "precio": [
+            {
+                "caja": "6.300",
+                "envase": "1.575",
+                "litro": "315"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "XPRESS ANTISEPTICAL 4X5LT",
+        "descripcion": "Jabón líquido para manos bactericida con PCMX",
+        "dilucion": "Puro",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Xpress-Antiseptical-715x1024.png",
+        "precio": [
+            {
+                "caja": "5.600",
+                "envase": "1.400",
+                "litro": "280"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "EXPRESS GEL 4X5LT",
+        "descripcion": "Alcohol en Gel Antibacterial con Chloroxylenol",
+        "dilucion": "Puro",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Xpress-Sanitizer-x5-L.png",
+        "precio": [
+            {
+                "caja": "3.600",
+                "envase": "900",
+                "litro": "180"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "LITE'N FOAMY ANTISEPTIC 4X5LT",
+        "descripcion": "Jabón en espuma para manos bactericida con Biguanidina (para refill)",
+        "dilucion": "Puro",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/11/Liten-foamy-antiseptic-Dos-envases.png",
+        "precio": [
+            {
+                "caja": "5.600",
+                "envase": "1.400",
+                "litro": "280"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "categoria": "HIGIENE DE MANOS",
+        "producto": "LITE'N FOAMY ANTISEPTIC 12X250ML",
+        "descripcion": "Jabón en espuma para manos bactericida con Biguanidina.",
+        "diluciónmaxima": "Puro",
+        "presentacion": "12 x 250 ml",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/11/Liten-foamy-antiseptic-Dos-envases.png",
+        "precio": [
+            {
+                "caja": "3.840",
+                "envase": "320",
+                "litro": "1.280"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "CLEAN BY PEROXY (GREEN SOLUTIONS) 4X5LT",
+        "descripcion": "Limpiador y blanqueador ecológico multiuso a base de peróxido de hidrógeno",
+        "diluciónmaxima": "250",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Clean-by-Peroxy.png",
+        "precio": [
+            {
+                "caja": "4.800",
+                "envase": "1.200",
+                "litro": "240"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "YELLOW PINE 4X5LT",
+        "descripcion": "Detergente desengrasante concentrado de pH neutro de uso General",
+        "diluciónmaxima": "400",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Yellow-Pine.png",
+        "precio": [
+            {
+                "caja": "5.800",
+                "envase": "1.450",
+                "litro": "290"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "MLD MARINE FRESH 4X5LT",
+        "descripcion": "Limpiador desinfectante desodorante con amonios cuat. de 5ta generación y fragancia potenciada",
+        "diluciónmaxima": "100",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/MLD-Marine-Fresh.png",
+        "precio": [
+            {
+                "caja": "4.600",
+                "envase": "1.150",
+                "litro": "230"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "MLD FLORAL 4X5LT",
+        "descripcion": "Limpiador desinfectante desodorante con amonios cuat. de 5ta generación y fragancia potenciada",
+        "diluciónmaxima": "100",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/MLD-Floral-715x1024.png",
+        "precio": [
+            {
+                "caja": "4.600",
+                "envase": "1.150",
+                "litro": "230"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "FOAMY Q&A 4X5LT",
+        "descripcion": "Limpiador ácido desinfectante con acción espumante",
+        "diluciónmaxima": "100",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "No hay imagen",
+        "precio": [
+            {
+                "caja": "3.400",
+                "envase": "850",
+                "litro": "170"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "BOWL CLEANSE 6X1LT",
+        "descripcion": "Limpiador Quita Sarro Concentrado para sanitarios",
+        "diluciónmaxima": "Puro",
+        "presentacion": "6 x 1 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/08/Bowl-Cleanse-x1.png",
+        "precio": [
+            {
+                "caja": "2.400",
+                "envase": "400",
+                "litro": "400"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "categoria": "LIMPIEZA GENERAL",
+        "producto": "GLASS CLEANER (GREEN SOLUTIONS) 4X5LT",
+        "descripcion": "Limpiador de vidrios - línea ecológica",
+        "diluciónmaxima": "64",
+        "presentacion": "4 x 5 Lts",
+        "imagen": "http://sustenclean.com/wp-content/uploads/2020/11/Green-Glass-Cleaner-x5L.png",
+        "precio": [
+            {
+                "caja": "3.520",
+                "envase": "880",
+                "litro": "176"
+            }
+        ]
+    }
+]

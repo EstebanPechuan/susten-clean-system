@@ -1,0 +1,54 @@
+.productos {
+    width: calc(100% - 250px);
+    padding: 50px 70px;
+}
+
+.lista-productos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.filtros {
+    width: 100%;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.input {
+    width: fit-content;
+    color: #000;
+    font-size: 18px;
+    border-radius: 8px;
+    border: 1px solid #0004;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.input label {
+    padding-left: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filtros svg {
+    color: #0009;
+}
+.filtros input {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: inherit;
+    border: none;
+    outline: none;
+}
+
+select {
+    width: 300px;
+    padding: 10px 20px;
+}

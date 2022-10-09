@@ -1,0 +1,34 @@
+.sidebar {
+    min-width: 250px;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    padding: 20px 0;
+    display: flex;
+    flex-direction: column;
+    background: rgb(84, 88, 100);
+    color: #fff;
+}
+
+.sidebar img {
+    height: 50px;
+    align-self: center;
+}
+
+.sidebar nav {
+    padding: 20px 0;
+}
+
+.menu > li {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.menu li a {
+    display: block;
+    padding: 10px 0 10px 30px;
+}
+
+.menu li:hover {
+    background: #0002;
+}

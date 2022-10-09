@@ -1,0 +1,38 @@
+.detalle {
+  width: calc(100% - 250px);
+  padding: 50px 70px;
+}
+
+.volver {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+.info {
+  display: flex;
+  gap: 50px;
+}
+
+.info img {
+  width: 100%;
+  max-width: 400px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.detalleProducto {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.precios {
+  display: flex;
+  gap: 50px;
+}
